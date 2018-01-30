@@ -1,7 +1,7 @@
 {
   "name": "atom-hemingway",
   "main": "./lib/atom-hemingway",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Hemingway mode for atom - no take-backs. Only forward progress.",
   "keywords": [],
   "activationCommands": {
