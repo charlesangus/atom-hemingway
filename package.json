@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "atom-hemingway:toggle"
   },
-  "repository": "https://github.com/atom/atom-hemingway",
+  "repository": "https://github.com/charlesangus/atom-hemingway",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
