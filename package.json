@@ -1,10 +1,9 @@
 {
   "name": "atom-hemingway",
   "main": "./lib/atom-hemingway",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Hemingway mode for atom - no take-backs. Only forward progress.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-hemingway:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
