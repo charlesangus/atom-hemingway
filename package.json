@@ -2,7 +2,7 @@
   "name": "atom-hemingway",
   "main": "./lib/atom-hemingway",
   "version": "0.3.1",
-  "description": "Hemingway mode for Atom. Emulates a typewriter. Disables backspace, cursor movement, text manipulation. All you can do is type. Only forward progress. #markdown #typewriter #writing #hemingway #productivity #focus",
+  "description": "Hemingway mode for Atom. Emulates a typewriter. Disables backspace, cursor movement, text manipulation. All you can do is type. Only forward progress.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-hemingway:toggle"
@@ -12,5 +12,15 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "keywords": [
+  "distraction free",
+  "focus",
+  "writing",
+  "editing",
+  "productivity",
+  "markdown",
+  "typewriter",
+  "hemingway"
+]
 }
